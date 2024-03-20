@@ -1,0 +1,8 @@
+
+openai==1.10.0
+langchain
+sqlalchemy
+pandas
+python-dotenv
+azure-ai-ml
+azure-identity
