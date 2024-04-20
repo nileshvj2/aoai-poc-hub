@@ -1,0 +1,10 @@
+#ignore env files
+*.env
+*.amlignore
+*.gitignore.ipynb
+*.amltmp
+*.ipynb_aml_checkpoints*
+*.gitignore
+SQLBYODExample.ipynb
+*.git
+credentials.env
