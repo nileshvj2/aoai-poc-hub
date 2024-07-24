@@ -1,4 +1,15 @@
 This repo contains notebooks related to various different POC I have done with AOAI
+Each notebook in this repo provides detailed code walkthrough of important concepts while building Gen AI applications using Azure Open AI or other LLM models.
+
+* Prompt engineering techniques
+* Basic RAG 
+* Standard v/s Advanced RAG Techniques
+* Building Smart Chat App on SQL data | Using LLM for NL to SQL code generation
+* Function Calling
+* Assistants API
+* Extracting key/values and datapoints from documents
+
+
 # Disclaimer
 
 The examples and code snippets in this repository are provided for **illustration and demonstration purposes only**. They are not intended for production deployment.
