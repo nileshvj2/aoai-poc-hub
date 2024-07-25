@@ -8,3 +8,5 @@ azure-ai-ml
 azure-identity
 azure-ai-documentintelligence
 azure-ai-formrecognizer
+num2words
+tiktoken

@@ -2,6 +2,7 @@ This repo contains notebooks related to various different POC I have done with A
 Each notebook in this repo provides detailed code walkthrough of important concepts while building Gen AI applications using Azure Open AI or other LLM models.
 
 * Prompt engineering techniques
+* Vectorization examples
 * Basic RAG 
 * Standard v/s Advanced RAG Techniques
 * Building Smart Chat App on SQL data | Using LLM for NL to SQL code generation
