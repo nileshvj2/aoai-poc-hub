@@ -3,11 +3,12 @@ Each notebook in this repo provides detailed code walkthrough of important conce
 
 * Prompt engineering techniques
 * Vectorization examples
-* Basic RAG 
-* Standard v/s Advanced RAG Techniques
-* Building Smart Chat App on SQL data | Using LLM for NL to SQL code generation
 * Function Calling
 * Assistants API
+* Basic RAG 
+* Advanced RAG Techniques
+* Using Orchestration frameworks - multi agents RAG
+* Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
 
 

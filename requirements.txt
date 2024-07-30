@@ -10,3 +10,4 @@ azure-ai-documentintelligence
 azure-ai-formrecognizer
 num2words
 tiktoken
+azure-search-documents
