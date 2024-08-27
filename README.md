@@ -10,6 +10,7 @@ Each notebook in this repo provides detailed code walkthrough of important conce
 * Using Orchestration frameworks - multi agents RAG
 * Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
+* Autogen examples - basic conversational multi agents, code exector and tool use
 
 
 # Disclaimer
