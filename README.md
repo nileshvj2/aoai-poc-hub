@@ -1,5 +1,6 @@
-This repo contains notebooks related to various different POC I have done with AOAI
-Each notebook in this repo provides detailed code walkthrough of important concepts while building Gen AI applications using Azure Open AI or other LLM models.
+This repo contains collection of notebooks which are proof of concepts I have developed using Azure AI services and other LLM models.
+Each notebook in this repo provides detailed code walkthrough of important concepts and will teach you how to build Gen AI applications with step by step explainations to understand important concepts.
+Intention to create this POC Hub is to share proof of concepts with anyone interested in creating AI solutions! 
 
 * Prompt engineering techniques
 * Vectorization examples
@@ -10,14 +11,12 @@ Each notebook in this repo provides detailed code walkthrough of important conce
 * Using Orchestration frameworks - multi agents RAG
 * Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
-* Autogen examples - basic conversational multi agents, code exector and tool use
+* Autogen examples - basic conversational multi agents, code exector and tool use patterns
 
-**updated!! 
 
 # Disclaimer
 
-The examples and code snippets in this repository are provided for **illustration and demonstration purposes only**. They are not intended for production deployment.
-Also, these examples are my code snippets I have created individually and should not be considered as references or opinions shared by my company or any other entity. 
+The examples and code snippets in this repository are provided for **illustration and demonstration purposes only**. They are not intended for production deployment. Also, these examples are my own code snippets I have created individually or from the existing code samples shared on product documentation/references mentioned. These should not be considered as references or opinions shared by my company or any other entity. 
 
 
 

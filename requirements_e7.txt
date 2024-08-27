@@ -1,4 +1,5 @@
 #only for autogen e7.1 to e7.3...
-pip install pyautogen 
-pip install openai==1.42.0
-pip install -qqq matplotlib numpy
+pyautogen 
+openai==1.42.0
+matplotlib
+numpy

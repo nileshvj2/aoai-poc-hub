@@ -9,3 +9,4 @@ SQLBYODExample.ipynb
 credentials.env
 *.conda
 README_Gen AI Project Guide.md
+*.cache
