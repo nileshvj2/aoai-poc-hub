@@ -1,12 +1,14 @@
+common/credentials.env
+common/envs
+aoai_poc_hub.code-workspace
+*.conda/*
 *.env
 *.amlignore
-*.gitignore.ipynb
+*.gitignore
 *.amltmp
 *.ipynb_aml_checkpoints*
-*.gitignore
 SQLBYODExample.ipynb
 *.git
-credentials.env
 *.conda
-README_Gen AI Project Guide.md
 *.cache
+.gitignore

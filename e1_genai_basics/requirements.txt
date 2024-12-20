@@ -1,0 +1,11 @@
+openai==1.10.0
+sqlalchemy
+pandas
+python-dotenv
+azure-ai-ml
+azure-identity
+azure-ai-documentintelligence
+azure-ai-formrecognizer
+num2words
+tiktoken
+azure-search-documents

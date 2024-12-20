@@ -1,4 +1,3 @@
-
 openai==1.10.0
 langchain
 sqlalchemy
