@@ -12,7 +12,7 @@ Intention to create this POC Hub is to share proof of concepts with anyone inter
 * Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
 * Autogen examples - basic conversational multi agents, code exector and tool use patterns
-
+* Semantic Kernel - Agent examples showing plugins and agent conversations
 
 # Disclaimer
 
