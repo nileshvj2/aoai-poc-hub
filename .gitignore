@@ -12,3 +12,4 @@ SQLBYODExample.ipynb
 *.conda
 *.cache
 .gitignore
+e6_rag_techniques/data/graphrag/*

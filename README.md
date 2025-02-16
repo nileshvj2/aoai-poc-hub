@@ -7,12 +7,31 @@ Intention to create this POC Hub is to share proof of concepts with anyone inter
 * Function Calling
 * Assistants API
 * Basic RAG 
-* Advanced RAG Techniques
 * Using Orchestration frameworks - multi agents RAG
 * Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
 * Autogen examples - basic conversational multi agents, code exector and tool use patterns
+* RAG Techniques
+    * Naive RAG
+    * Standard/Advanced RAG
+    * MS Graph Rag
 
+
+# How to use 
+
+Separate environments created for each excercise. For example - e1 to e3 uses aoai_poc_e1, e1 uses aoai_poc_e4 etc. 
+Each excercise has its own requirements.txt file. 
+This is to avoid any library or version conflicts and making sure each excercise works on its own independtly without any dependencies
+
+Commands to create environments
+Conda create -p C:\Users\..\git\aoai-poc-hub\common\envs\aoai_poc_e4 <specify path but cannot specify name here>  python=3.11
+Conda activate <fullpath> or <env-name-here>
+Conda deactivate <fullpath> or <env-name-here>
+
+Installing packages using PIP
+pip install -r ./common/requirements.txt  --File 
+conda install pip  --individual pkg
+conda install ipykernel --individual pkg
 
 # Disclaimer
 

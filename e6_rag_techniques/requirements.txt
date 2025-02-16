@@ -1,0 +1,8 @@
+pandas==2.2.3
+python-dotenv==1.0.1
+graphrag==0.3.5
+#httpx==0.27.2
+#openai==1.58.1
+bs4==0.0.2
+azure-search-documents==11.5.2
+
