@@ -11,13 +11,14 @@ Intention to create this POC Hub is to share proof of concepts with anyone inter
 * Building Smart Chat App on SQL data (NL to SQL)
 * Extracting key/values and datapoints from documents
 * Autogen examples - basic conversational multi agents, code exector and tool use patterns
+* Semantic Kernel - Agent examples showing plugins and agent conversations
 * RAG Techniques
     * Naive RAG
     * Standard/Advanced RAG
     * MS Graph Rag
 
 
-# How to use 
+# Set up Instructions
 
 Separate environments created for each excercise. For example - e1 to e3 uses aoai_poc_e1, e1 uses aoai_poc_e4 etc. 
 Each excercise has its own requirements.txt file. 
